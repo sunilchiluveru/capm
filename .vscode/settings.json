@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "MySqllite",
+            "group": "SQLlite",
+            "database": "${workspaceFolder:my-bookshop}/my.bookshop.db"
+        }
+    ]
+}
